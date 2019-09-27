@@ -1,0 +1,17 @@
+.idea
+result/
+__pycache__/
+data/
+*.h5
+*.pyc
+venv
+tensorboard/
+release/
+ckpt/
+logs/
+mnist/
+pb/
+tfrecord/
+checkpoints/
+model_data/
+test/
